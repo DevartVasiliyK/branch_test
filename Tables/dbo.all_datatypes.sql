@@ -1,5 +1,5 @@
 ﻿CREATE TABLE [dbo].[all_datatypes] (
-  [pk_int] [int] NOT NULL,
+  [pk_int_] [int] NOT NULL,
   [bigint] [bigint] NULL,
   [smallint] [smallint] NULL,
   [tinyint] [tinyint] NULL,
