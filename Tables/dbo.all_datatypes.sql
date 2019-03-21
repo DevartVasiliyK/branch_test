@@ -44,7 +44,7 @@
   [date] [date] NULL,
   [time] [time] NULL,
   [rowversion] [timestamp] NULL,
-  PRIMARY KEY CLUSTERED ([pk_int])
+  PRIMARY KEY CLUSTERED ([pk_int_])
 )
 ON [PRIMARY]
 TEXTIMAGE_ON [PRIMARY]
